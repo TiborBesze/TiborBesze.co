@@ -9,6 +9,8 @@
 - Blog posts have syntax highlighting for embedded source code snippets [not yet implemented]
 - Add blog posts to 1 or more categories [not yet implemented]
 - Add blog posts to series [not yet implemented]
+- Blog post versioning [not yet implemented]
+- Works as a Progressive Web App, with network type based asset loading, and locally cached blog posts for offline use [not yet implemented]
 - AMP support [not yet implemented]
 
 ## License
